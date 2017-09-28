@@ -85,5 +85,3 @@ where `$URL` is a big long url that points at your rancher server, run `make age
 ansible-playbook rancherAgent.yml
 ```
 stick a line in cron that runs it every five minutes and you’ll ensure their up and running
-
-testing
